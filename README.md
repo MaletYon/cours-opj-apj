@@ -15,8 +15,18 @@ Cette formation est réservée aux Officiers et aux Agents de Police Judiciaire 
 | En ligne | `https://maletyon.github.io/cours-opj-apj/ndap-sukulu/` |
 | Sur téléphone (fiches seulement) | `https://maletyon.github.io/cours-opj-apj/ndap-sukulu/telephone/` |
 | Sur un ordinateur, sans Internet | archive `NDAP_SUKULU_OPJ-APJ_ordinateur.zip`, dans [`ndap-sukulu/`](ndap-sukulu/) |
+| Si votre réseau bloque `github.io` | adresse de secours `https://raw.githack.com/MaletYon/cours-opj-apj/main/ndap-sukulu/` (téléphone : ajoutez `telephone/` à la fin), ou [archive à télécharger](https://github.com/MaletYon/cours-opj-apj/raw/main/ndap-sukulu/NDAP_SUKULU_OPJ-APJ_ordinateur.zip) pour travailler hors ligne |
 
 Pour demander un accès : maletyon@proton.me, en précisant votre nom, votre grade, votre matricule et votre service.
+
+## Vérifier une attestation de fin de module
+
+Le QR code de chaque attestation porte une signature numérique. La page de vérification indique si elle est authentique ; elle ne demande aucun compte et n'envoie rien.
+
+| Adresse | |
+|---|---|
+| Principale | `https://maletyon.github.io/cours-opj-apj/verification/` |
+| Si votre réseau bloque `github.io` | `https://raw.githack.com/MaletYon/cours-opj-apj/main/verification/index.html` |
 
 ## Licence
 
