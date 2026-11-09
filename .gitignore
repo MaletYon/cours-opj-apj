@@ -1,0 +1,7 @@
+# Dépôt public réduit au paquet chiffré : tout le reste vit dans le dépôt privé.
+*
+!.gitignore
+!README.md
+!LICENSE.md
+!ndap-sukulu/
+!ndap-sukulu/**
